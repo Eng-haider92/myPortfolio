@@ -183,7 +183,7 @@ export const content = {
           {
             name: 'Online Kitchen',
             description: 'Web application for browse, add, delete recipes online. ',
-            URL: 'https://Eng-haider92.github.io/onlineKitchen',
+            URL: 'https://Eng-haider92.github.io/onlineKitchen/',
           },
           {
             name: 'Web Application Security',
