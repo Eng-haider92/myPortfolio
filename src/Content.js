@@ -187,8 +187,8 @@ export const content = {
           },
           {
             name: 'Web Application Security',
-            description: 'Swiper React components will likely to be removed in future versions. It is recommended ',
-            URL: '',
+            description: 'Web application for teaching how to secure web apps',
+            URL: 'https://Eng-haider92.github.io/cyberSecurity',
           },
           {
             name: 'Cryptography',
