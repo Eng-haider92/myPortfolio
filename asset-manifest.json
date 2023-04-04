@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.2813e83c.css",
-    "main.js": "/myPortfolio/static/js/main.35558d40.js",
+    "main.js": "/myPortfolio/static/js/main.8b1eebd3.js",
     "static/media/Haider-Rajab.pdf": "/myPortfolio/static/media/Haider-Rajab.b01a6debc9c2376203ed.pdf",
     "static/media/cr_5.PNG": "/myPortfolio/static/media/cr_5.6046029d5e6cd5ab22c0.PNG",
     "static/media/cr_3.PNG": "/myPortfolio/static/media/cr_3.6b4dc7019af93720828f.PNG",
@@ -17,10 +17,10 @@
     "static/media/spring.png": "/myPortfolio/static/media/spring.5d3a34e81adb6a9148fb.png",
     "index.html": "/myPortfolio/index.html",
     "main.2813e83c.css.map": "/myPortfolio/static/css/main.2813e83c.css.map",
-    "main.35558d40.js.map": "/myPortfolio/static/js/main.35558d40.js.map"
+    "main.8b1eebd3.js.map": "/myPortfolio/static/js/main.8b1eebd3.js.map"
   },
   "entrypoints": [
     "static/css/main.2813e83c.css",
-    "static/js/main.35558d40.js"
+    "static/js/main.8b1eebd3.js"
   ]
 }
