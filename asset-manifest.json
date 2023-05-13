@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.2813e83c.css",
-    "main.js": "/myPortfolio/static/js/main.9f3a0ee2.js",
+    "main.js": "/myPortfolio/static/js/main.fbabf4fd.js",
+    "static/media/Haider-Rajab.pdf": "/myPortfolio/static/media/Haider-Rajab.dcc235a0474b228fb8bf.pdf",
     "static/media/cr_5.PNG": "/myPortfolio/static/media/cr_5.6046029d5e6cd5ab22c0.PNG",
     "static/media/cr_3.PNG": "/myPortfolio/static/media/cr_3.6b4dc7019af93720828f.PNG",
     "static/media/cr_6.PNG": "/myPortfolio/static/media/cr_6.19fdd234be55060cfb55.PNG",
     "static/media/cr_4.PNG": "/myPortfolio/static/media/cr_4.df766c8b2421a41a717b.PNG",
     "static/media/cr_2.PNG": "/myPortfolio/static/media/cr_2.beb926d218e3538baa83.PNG",
-    "static/media/Haider-Rajab.pdf": "/myPortfolio/static/media/Haider-Rajab.6fb8fd6b927ded8afe58.pdf",
     "static/media/CSS.png": "/myPortfolio/static/media/CSS.3b3afc42ab666db768fd.png",
     "static/media/HTML.png": "/myPortfolio/static/media/HTML.bfc2652614e31875c4bb.png",
     "static/media/cr_1.png": "/myPortfolio/static/media/cr_1.1f18bfcd7aba52ba593a.png",
@@ -17,10 +17,10 @@
     "static/media/spring.png": "/myPortfolio/static/media/spring.5d3a34e81adb6a9148fb.png",
     "index.html": "/myPortfolio/index.html",
     "main.2813e83c.css.map": "/myPortfolio/static/css/main.2813e83c.css.map",
-    "main.9f3a0ee2.js.map": "/myPortfolio/static/js/main.9f3a0ee2.js.map"
+    "main.fbabf4fd.js.map": "/myPortfolio/static/js/main.fbabf4fd.js.map"
   },
   "entrypoints": [
     "static/css/main.2813e83c.css",
-    "static/js/main.9f3a0ee2.js"
+    "static/js/main.fbabf4fd.js"
   ]
 }
